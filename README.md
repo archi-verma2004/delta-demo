@@ -1,2 +1,2 @@
 # delta-demo
-This repo is about gitub
+This repo is about gitub.
